@@ -65,7 +65,7 @@ Para poner en marcha este proyecto en tu entorno local, sigue estos pasos:
 1.  **Clonar el repositorio:**
     ```bash
     git clone https://github.com/marcosstic/React-context-api-practica.git
-    cd react-context-api-practica2
+    cd React-context-api-practica
     ```
 2.  **Instalar dependencias:**
     ```bash
