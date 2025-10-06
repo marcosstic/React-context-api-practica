@@ -98,3 +98,6 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, no dud
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
+
+---
+**Nota:** Este proyecto fue creado como una práctica para demostrar el uso de la Context API en React.
